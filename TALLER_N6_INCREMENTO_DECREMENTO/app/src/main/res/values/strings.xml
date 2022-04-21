@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TALLER_N°6_INCREMENTO_DECREMENTO</string>
+    <string name="btn1">Incremento</string>
+    <string name="btn2">Decremento</string>
+    <string name="btn3">Reset</string>
+    <string name="tv">Número</string>
+</resources>
