@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TALLER_N5_PAR_IMPAR_NEGATIVO_POSITIVO</string>
+    <string name="et">Ingrese el numero</string>
+    <string name="btn1">Calcular</string>
+    <string name="btn2">Borrar</string>
+    <string name="tv">Resultado</string>
+</resources>
