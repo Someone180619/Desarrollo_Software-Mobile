@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TALLER_N°2_SUMA_DE_DOS_NUMEROS_RADIOBUTTON</string>
+    <string name="et1">Primer número</string>
+    <string name="et2">Segundo Número</string>
+    <string name="rb1">Sumar</string>
+    <string name="rb2">Restar</string>
+    <string name="tv">Resultado</string>
+</resources>
