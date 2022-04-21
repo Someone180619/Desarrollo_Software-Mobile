@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TALLER_N3_SUMA_DOS_NUMEROS_SPINNER</string>
+    <string name="et1">Primer Numero</string>
+    <string name="et2">Segundo Numero</string>
+    <string name="btn1">Cacular</string>
+    <string name="btn2">Borrar</string>
+    <string name="tv">Resultado</string>
+    <string-array name="Arreglo">
+        <item>Seleccionar Operación</item>
+        <item>Sumar</item>
+        <item>Restar</item>
+    </string-array>
+</resources>
