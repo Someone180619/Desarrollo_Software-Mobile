@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TALLER_N°4_OPERACIONES_MATEMATICAS_CON_CHECKBOX</string>
+    <string name="et1">Primer número</string>
+    <string name="et2">Segundo número</string>
+    <string name="chb1">Sumar</string>
+    <string name="chb2">Restar</string>
+    <string name="btn1">Calcular</string>
+    <string name="btn2">Borrar</string>
+    <string name="tv">Resultado</string>
+</resources>
