@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TALLER_N°10_ANIMACIONES_CON_CONSTRAINTLAYOUT</string>
+    <string name="tv">Animaciones</string>
+    <string name="btn1">Blink</string>
+    <string name="btn2">CLock</string>
+    <string name="btn3">Fade</string>
+    <string name="btn4">Move</string>
+    <string name="btn5">Slide</string>
+    <string name="btn6">Zoom</string>
+    <string name="btn7">Stop</string>
+</resources>
