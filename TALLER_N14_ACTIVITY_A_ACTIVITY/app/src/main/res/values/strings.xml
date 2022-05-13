@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TALLER14_ACTIVITY_A_ACTIVITY</string>
+    <string name="tv1">Activity N1</string>
+    <string name="tv2">Activity N2</string>
+    <string name="btn1">Siguiente</string>
+    <string name="btn2">Regresar</string>
+</resources>
