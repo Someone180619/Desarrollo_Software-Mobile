@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TALLER_N°15_ACTIVITY_A_ACTIVITY</string>
+
+    <string name="et1"> Nombre</string>
+    <string name="et2"> Telefono</string>
+    <string name="btn1"> Siguiente</string>
+</resources>
