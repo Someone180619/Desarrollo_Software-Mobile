@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TALLER_N°17_FRAGMENTS_DINAMICOS</string>
+    <string name="btnRojo">Rojo</string>
+    <string name="btnVerde">Verde</string>
+    <string name="tv1">Bienvenido!!!</string>
+    <string name="tv2">Fragment Rojo</string>
+    <string name="tv3">Fragment Verde</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
