@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TALLER_N°16_ACTIVITY_A_ACTIVITY</string>
+
+    <string name="et1">Primer Numero</string>
+    <string name="et2">Segundo Numero</string>
+    <string name="tv1">Resultado</string>
+    <string name="btn1">Enviar</string>
+    <string name="btn2">Limpiar</string>
+    <string name="tv2">Numeros Ingresados</string>
+    <string name="btn3">Sumar</string>
+    <string name="btn4">Restar</string>
+</resources>
