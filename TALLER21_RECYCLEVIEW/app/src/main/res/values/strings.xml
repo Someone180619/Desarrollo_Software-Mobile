@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TALLER21_RECYCLEVIEW</string>
+    <string name="tv1">Titulo</string>
+    <string name="tv2">Descripción</string>
+
+    <string-array name="Software_Programación">
+        <item>Android Studio</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Matlab</item>
+        <item>Php</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Sharp</item>
+        <item>VB</item>
+    </string-array>
+
+    <string-array name="Descripción">
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+        <item>Descripción</item>
+    </string-array>
+
+
+</resources>
