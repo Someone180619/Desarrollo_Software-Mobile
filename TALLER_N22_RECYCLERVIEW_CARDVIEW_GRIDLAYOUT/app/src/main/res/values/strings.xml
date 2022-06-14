@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Taller_N22_RecycleView_Cardview_Gridlayout</string>
+    <string name="tvtitulo">Titulo del Libro</string>
+    <string name="tvcategoria">Categoría</string>
+    <string name="tvdescripcion">Descripción</string>
+</resources>
