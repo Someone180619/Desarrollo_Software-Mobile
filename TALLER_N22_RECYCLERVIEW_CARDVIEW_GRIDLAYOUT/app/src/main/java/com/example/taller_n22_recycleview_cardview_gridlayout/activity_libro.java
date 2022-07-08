@@ -20,7 +20,7 @@ public class activity_libro extends AppCompatActivity {
         tvtitulo = (TextView) findViewById(R.id.tvtitulo);
         tvcategoria = (TextView) findViewById(R.id.tvcategoria);
         tvdescripcion = (TextView) findViewById(R.id.tvdescripcion);
-        img = (ImageView) findViewById(R.id.imagenLibrominiatura);
+        img = (ImageView) findViewById(R.id.imagenlibrominiatura);
 
         Intent intent = getIntent();
         String titulo = intent.getExtras().getString("Titulo");

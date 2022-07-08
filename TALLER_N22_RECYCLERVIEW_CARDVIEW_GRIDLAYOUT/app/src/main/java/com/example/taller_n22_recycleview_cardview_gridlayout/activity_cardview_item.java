@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class cardview_item extends AppCompatActivity {
+public class activity_cardview_item extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

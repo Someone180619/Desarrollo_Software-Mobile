@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.taller_n22_recycleview_cardview_gridlayout">
 
     <application
@@ -11,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Taller_N22_RecycleView_Cardview_Gridlayout">
         <activity
-            android:name=".cardview_item"
+            android:name=".activity_cardview_item"
             android:exported="true" />
         <activity
             android:name=".activity_libro"
