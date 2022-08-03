@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Proyecto Galería</string>
+    <string name="btnCamara">Cámara</string>
+    <string name="btnGaleria">Galería</string>
+
+</resources>

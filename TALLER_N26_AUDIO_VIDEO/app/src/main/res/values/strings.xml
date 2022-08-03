@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TALLER26_AUDIO_VIDEO</string>
+    <string name="audioPlay">Play Audio</string>
+    <string name="videoPlay">Play Video</string>
+    <string name="btn1">Play</string>
+    <string name="btn2">Pause</string>
+    <string name="back">Back</string>
+
+</resources>

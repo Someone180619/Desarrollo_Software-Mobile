@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto#2</string>
+    <string name="logo">¡BIENVENIDO A NUESTRO PROGRAMA!</string>
+    <string name="textViewApellido">Ingrese Apellido</string>
+    <string name="textViewNombre">Ingrese Nombre</string>
+    <string name="botonLimpiar">LIMPIAR</string>
+    <string name="botonEnviar">ENVIAR</string>
+    <string name="textViewFragmentNombre">Nombre Ingresado</string>
+    <string name="textViewFragmentApellido">Apellido Ingresado</string>
+</resources>
